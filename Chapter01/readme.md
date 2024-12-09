@@ -1,3 +1,9 @@
+# Study List
+P11 Feed_forward_propagation
+
+
+
+
 # Errata
 
 Due to notation mismatches, some of the formulae were printed erroneously in the book  
