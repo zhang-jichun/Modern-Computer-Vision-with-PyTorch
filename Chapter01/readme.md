@@ -1,6 +1,7 @@
 # Study List
 ### P11 Feed_forward_propagation
 ### P15 Gradient_descent
+### P18 Chain_rule
 
 
 
